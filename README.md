@@ -6,5 +6,5 @@ Thanks!
 Happy Learning
 
 
-##Bi Learner
-###Signing off
+## BiLearner
+### Signing off
